@@ -24,8 +24,8 @@ The second table should be used to identify other developers that should review 
 would indicate that @dadleyy is primarily responsible for reviewing the code, while the @sizethree/golang team would be interested in it.
 
 
-[branch.url]: https://github.com/dadleyy/marlow/tree/GH-61/schema-file
-[Marlow]: https://github.com/dadleyy/marlow
+[branch.url]: https://github.com/090809/marlow/tree/GH-61/schema-file
+[Marlow]: https://github.com/090809/marlow
 [travis]: https://travis-ci.org/dadleyy/marlow
 [goreportcard]: https://goreportcard.com
 [codecov.io]: https://codecov.io/gh/dadleyy/marlow

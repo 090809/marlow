@@ -8,5 +8,5 @@ const (
 	// with marlow, not necessarily the source data.
 	InvalidGeneratedCodeError = "Marlow was unable to generate valid golang code. " +
 		"Typically this is a problem with the marlow compiler\nitself, not necessarily the source structs. " +
-		"Consider opening a github issue and including the source\nstruct configuration at https://github.com/dadleyy/marlow"
+		"Consider opening a github issue and including the source\nstruct configuration at https://github.com/090809/marlow"
 )

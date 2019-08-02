@@ -1,4 +1,4 @@
-module github.com/dadleyy/marlow
+module github.com/090809/marlow
 
 require (
 	github.com/VividCortex/ewma v0.0.0-20170804035156-43880d236f69

@@ -38,7 +38,7 @@ At its core, marlow simply reads a package's [field tags] and generates valid [g
 can be installed & used directly via:
 
 ```
-go get -u github.com/dadleyy/marlow/marlowc
+go get -u github.com/090809/marlow/marlowc
 marlowc -input=./examples/library/models -stdout=true
 ```
 
@@ -186,7 +186,7 @@ generated coverage badge provided by [gendry]
 [crud]: https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [Rails]: http://rubyonrails.org
-[issues]: https://github.com/dadleyy/marlow/issues
+[issues]: https://github.com/090809/marlow/issues
 [ActiveRecord]: http://guides.rubyonrails.org/active_record_basics.html
 [ORM]: https://en.wikipedia.org/wiki/Object-relational_mapping
 [mysql]: https://www.mysql.com
@@ -194,19 +194,19 @@ generated coverage badge provided by [gendry]
 [codecov.img]: https://img.shields.io/codecov/c/github/dadleyy/marlow.svg?style=flat-square
 [codecov.url]: https://codecov.io/gh/dadleyy/marlow
 [tag.img]: https://img.shields.io/github/tag/dadleyy/marlow.svg?style=flat-square
-[tag.url]: https://github.com/dadleyy/marlow/releases
+[tag.url]: https://github.com/090809/marlow/releases
 [struct field tags]: https://golang.org/ref/spec#Tag
 [golang]: https://golang.org
-[report.img]: https://goreportcard.com/badge/github.com/dadleyy/marlow?style=flat-square
-[report.url]: https://goreportcard.com/report/github.com/dadleyy/marlow
+[report.img]: https://goreportcard.com/badge/github.com/090809/marlow?style=flat-square
+[report.url]: https://goreportcard.com/report/github.com/090809/marlow
 [travis.img]: https://img.shields.io/travis/dadleyy/marlow/master.svg?style=flat-square
 [travis.url]: https://travis-ci.org/dadleyy/marlow
 [godoc.img]: http://img.shields.io/badge/godoc-reference-5272B4.svg?style=flat-square
-[godoc.url]: https://godoc.org/github.com/dadleyy/marlow/marlow
+[godoc.url]: https://godoc.org/github.com/090809/marlow/marlow
 [field tags]: https://golang.org/pkg/reflect/#StructTag
 [logo.img]: https://s3.amazonaws.com/coverage.marlow.sizethree.cc/media/marlow.svg
 [commits.img]: https://img.shields.io/github/commits-since/dadleyy/marlow/latest.svg?style=flat-square
-[commits.url]: https://github.com/dadleyy/marlow
+[commits.url]: https://github.com/090809/marlow
 [awesome.img]: https://img.shields.io/badge/%F0%9F%95%B6-awesome--go-443f5e.svg?colorA=c3a1bb&style=flat-square
 [awesome.url]: https://awesome-go.com/#orm
 [generated-coverage.img]: http://gendry.sizethree.cc/coverage/dadleyy/marlow.svg
@@ -216,8 +216,8 @@ generated coverage badge provided by [gendry]
 [`github.com/mattn/go-sqlite3`]: https://github.com/mattn/go-sqlite3
 [`github.com/go-sql-driver/mysql`]: https://github.com/go-sql-driver/mysql
 [`driver.Driver`]: https://golang.org/pkg/database/sql/driver/#Driver
-[`examples/library`]: https://github.com/dadleyy/marlow/tree/master/examples/library
-[`Author`]: https://github.com/dadleyy/marlow/blob/master/examples/library/models/author_test.go
-[`Book`]: https://github.com/dadleyy/marlow/blob/master/examples/library/models/book_test.go
-[`Genre`]: https://github.com/dadleyy/marlow/blob/master/examples/library/models/genre_test.go
-[`GH-67`]: https://github.com/dadleyy/marlow/issues/67
+[`examples/library`]: https://github.com/090809/marlow/tree/master/examples/library
+[`Author`]: https://github.com/090809/marlow/blob/master/examples/library/models/author_test.go
+[`Book`]: https://github.com/090809/marlow/blob/master/examples/library/models/book_test.go
+[`Genre`]: https://github.com/090809/marlow/blob/master/examples/library/models/genre_test.go
+[`GH-67`]: https://github.com/090809/marlow/issues/67

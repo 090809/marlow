@@ -1,4 +1,4 @@
-package: github.com/dadleyy/marlow
+package: github.com/090809/marlow
 import:
 - package: github.com/vbauerster/mpb
   version: ^3.0.4
