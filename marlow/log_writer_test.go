@@ -3,7 +3,7 @@ package marlow
 import "bytes"
 import "testing"
 import "github.com/franela/goblin"
-import "github.com/dadleyy/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/writing"
 
 func Test_LogWriter(t *testing.T) {
 	g := goblin.Goblin(t)

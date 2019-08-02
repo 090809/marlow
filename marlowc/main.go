@@ -13,8 +13,8 @@ import "go/build"
 import "github.com/vbauerster/mpb"
 import "github.com/dustin/go-humanize"
 
-import "github.com/dadleyy/marlow/marlow"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow"
+import "github.com/090809/marlow/marlow/constants"
 
 func main() {
 	cwd, e := os.Getwd()

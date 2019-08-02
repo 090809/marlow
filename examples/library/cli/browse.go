@@ -1,7 +1,7 @@
 package cli
 
 import "fmt"
-import "github.com/dadleyy/marlow/examples/library/models"
+import "github.com/090809/marlow/examples/library/models"
 
 // Browse (TODO) provides an interactive session with the underlying database tables + marlow stores.
 func Browse(store *models.Stores, args []string) error {

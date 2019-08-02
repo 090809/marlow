@@ -10,7 +10,7 @@ import "github.com/go-sql-driver/mysql"
 import _ "github.com/mattn/go-sqlite3"
 import "database/sql"
 import "github.com/franela/goblin"
-import "github.com/dadleyy/marlow/marlow"
+import "github.com/090809/marlow/marlow"
 
 func addAuthorRow(db *sql.DB, values ...[]string) error {
 	for _, rowValues := range values {

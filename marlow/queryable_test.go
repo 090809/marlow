@@ -11,7 +11,7 @@ import "go/token"
 import "go/parser"
 import "github.com/franela/goblin"
 
-import "github.com/dadleyy/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/writing"
 
 type queryableTestScaffold struct {
 	output *bytes.Buffer

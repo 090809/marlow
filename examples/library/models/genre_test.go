@@ -7,7 +7,7 @@ import "testing"
 import _ "github.com/lib/pq"
 import "database/sql"
 import "github.com/franela/goblin"
-import "github.com/dadleyy/marlow/examples/library/data"
+import "github.com/090809/marlow/examples/library/data"
 
 func Test_Genre(t *testing.T) {
 	g := goblin.Goblin(t)

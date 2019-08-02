@@ -4,8 +4,8 @@ import "io"
 import "fmt"
 import "strings"
 import "net/url"
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 func writeStore(destination io.Writer, record marlowRecord, storeMethods map[string]writing.FuncDecl) error {
 	out := writing.NewGoWriter(destination)

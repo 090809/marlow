@@ -1,7 +1,7 @@
 package marlow
 
 import "go/types"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/constants"
 
 // getTypeInfo returns a types.BasicInfo mask value based on the string provided.
 func getTypeInfo(fieldType string) types.BasicInfo {

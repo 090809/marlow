@@ -4,8 +4,8 @@ import "fmt"
 import "sort"
 import "strings"
 import "net/url"
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 // marlowRecord structs represent both the field-level and record-level configuration options for gerating the marlow stores.
 type marlowRecord struct {

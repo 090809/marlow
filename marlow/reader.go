@@ -11,8 +11,8 @@ import "go/token"
 import "go/parser"
 import "go/format"
 
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 // Compile is responsible for reading from a source and writing the generated marlow code into a destination.
 func Compile(destination io.Writer, reader io.Reader) error {

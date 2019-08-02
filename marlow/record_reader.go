@@ -10,8 +10,8 @@ import "reflect"
 import "net/url"
 import "strings"
 import "github.com/gedex/inflector"
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 const (
 	// DefaultBlueprintLimit is the default limit that will be used in blueprints unless one is configured on the record.

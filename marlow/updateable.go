@@ -4,8 +4,8 @@ import "io"
 import "fmt"
 import "net/url"
 import "go/types"
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 type updaterSymbols struct {
 	valueParam      string

@@ -6,8 +6,8 @@ import "bytes"
 import "testing"
 import "net/url"
 import "github.com/franela/goblin"
-import "github.com/dadleyy/marlow/marlow/writing"
-import "github.com/dadleyy/marlow/marlow/constants"
+import "github.com/090809/marlow/marlow/writing"
+import "github.com/090809/marlow/marlow/constants"
 
 type updateableTestScaffold struct {
 	buffer   *bytes.Buffer
